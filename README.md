@@ -1,9 +1,9 @@
-# Hi, I'm Martin Ignacio Leiva 👋
+# Hi, I'm Martin Leiva
 
 M2 student in **Artificial Intelligence** at **Université Paris-Saclay**.
 I build end-to-end machine learning systems, from data cleaning and modeling to evaluation and deployment, with hands-on work in NLP, information retrieval, time-series forecasting and generative models.
 
-🔎 **Looking for a 6-month AI internship in France, starting mid-February / early March 2027.**
+**Looking for a 6-month AI internship in France, starting mid-February / early March 2027.**
 
 ## Selected projects
 
