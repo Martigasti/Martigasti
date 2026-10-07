@@ -18,14 +18,23 @@ I build end-to-end machine learning systems, from data cleaning and modeling to 
 
 ## Experience
 
-- **Research intern**, Université de Corse & Mines Paris – PSL (O.I.E. Laboratory), 2026: photovoltaic and weather forecasting benchmark (ELM, AR-OLS), and a live nowcasting service deployed on a weather-station database.
-- **Research project (TER)**, Université Paris-Saclay, 2026: Mixture-of-Experts architectures for synthetic generation of multimodal clinical data (tabular, text, images).
+**Research Intern**, Université de Corse Pasquale Paoli, COMPA Team · Corte, Corsica · May–Jul 2026
+- Benchmarked models (AR-OLS, ELM) for multi-horizon time-series forecasting.
+- Implemented ELM cost and regularization variants (Ridge, Huber, MAE, Box-Cox, Elastic Net, etc.) in Python from their analytical formulations.
+- Deployed the selected model as a real-time weather nowcasting service (temperature, humidity, pressure) on a Linux server, with PostgreSQL storage and systemd scheduling.
+
+**Research Intern**, LISN, ARAI Team · Paris, France · May–Jul 2025
+- Built a real-time SLAM pipeline (Python) reconstructing 3D scenes from Meta Aria glasses.
+- Projected gaze and hand movements onto a 3D model to analyze group attention.
+
+**Research Project (TER)**, Université Paris-Saclay · 2026
+- Mixture-of-Experts architectures for synthetic generation of multimodal clinical data (tabular, text, images).
 
 ## Skills
 
-**ML / AI:** PyTorch · Hugging Face Transformers · scikit-learn · XGBoost / CatBoost · sentence-transformers · LLM evaluation · information retrieval
-**Data & tools:** Python · pandas / NumPy · SQL / PostgreSQL · Docker · Git · Linux · SLURM
-**Also:** Java · C++ · OCaml
+- **ML / AI:** PyTorch · Hugging Face Transformers · scikit-learn · XGBoost / CatBoost · sentence-transformers · LLM evaluation · information retrieval · 3D vision (SLAM)
+- **Data & tools:** Python · pandas / NumPy · SQL / PostgreSQL · Docker · Git · Linux · systemd · SLURM
+- **Also:** Java · C++ · OCaml
 
 **Languages:** Spanish (bilingual) · French (bilingual) · English (C1)
 
